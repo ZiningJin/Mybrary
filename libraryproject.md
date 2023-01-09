@@ -161,9 +161,19 @@ LibraryProject
    node_modules
    ```
 
-   
+   Git add .
 
-9. xxx
+   git commit -m "initial setup"
+
+9. create Mybrary repository on remote GitHub
+
+   - ```
+     git remote add origin https://github.com/ZiningJin/Mybrary.git
+     ```
+
+     ```
+     git push -u origin main
+     ```
 
 10. Xxx
 
